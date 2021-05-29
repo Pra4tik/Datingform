@@ -1,0 +1,36 @@
+body{
+    font-family: anaheim;
+    background-color: lightgoldenrodyellow;
+}
+
+#container{
+    background-color: white;
+    padding: 25px;
+    border: 2px solid gray;
+    margin: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+h1{
+    text-align: center;
+}
+fieldset{
+    margin: 10px;
+}
+
+#btn{
+    margin-left: 900px;
+    font-size: inherit;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    
+}
+
+#tt{
+    font-size: inherit;
+
+}
